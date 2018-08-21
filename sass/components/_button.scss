@@ -1,0 +1,17 @@
+.btn{
+    &,
+    &:link,
+    &:visited {
+
+    }
+
+    &:hover {
+     
+    }
+
+    &:active,
+    &:focus {
+        outline: none;
+    }
+
+}
